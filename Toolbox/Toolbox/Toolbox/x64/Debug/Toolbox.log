@@ -1,0 +1,102 @@
+﻿  MyForm.cpp
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1450,38): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1450,33): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1450,28): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1450,23): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1471,25): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1471,21): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1472,25): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1472,21): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1473,25): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1473,21): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1476,30): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1477,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1496,61): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1496,47): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1546,51): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.h(1586,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\mat.inl.hpp(815): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\mat.inl.hpp(2135): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\mat.inl.hpp(3735): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\mat.inl.hpp(713): warning C4793: 'cv::Mat::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+F:\E-learning\Fifth Year\DIP\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Toolbox.vcxproj -> F:\E-learning\Fifth Year\DIP\Toolbox\x64\Debug\Toolbox.exe

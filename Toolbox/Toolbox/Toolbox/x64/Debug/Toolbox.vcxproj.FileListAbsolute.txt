@@ -1,0 +1,3 @@
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\x64\Debug\Toolbox.vcxproj.AssemblyReference.cache
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\x64\Debug\Toolbox.MyForm.resources
+F:\E-learning\Fifth Year\DIP\Toolbox\Toolbox\x64\Debug\Toolbox.vcxproj.GenerateResource.cache
