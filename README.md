@@ -1,4 +1,4 @@
-![1](screenshots/1.png)
+![1](Screenshots/1.png)
 
 # Digital Image Processing
 
